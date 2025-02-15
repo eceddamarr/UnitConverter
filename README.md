@@ -13,6 +13,15 @@ A simple and beginner-friendly unit converter app built using **Jetpack Compose*
 
 ---
 
+## Screenshots
+
+Here is a preview of the app:
+
+![Adsız tasarım (1)](https://github.com/user-attachments/assets/be1e11b3-8282-4dcc-b07a-04244e64d82b)
+
+
+---
+
 ## Installation
 
 To run the app locally, follow these steps:
@@ -42,5 +51,3 @@ To run the app locally, follow these steps:
 - **Input Field**: Type the value you want to convert in the input text field.
 - **Unit Selection**: Use the dropdown menus to select the input and output units.
 - **Conversion**: The converted value will be displayed immediately after selecting the desired units.
-
-
